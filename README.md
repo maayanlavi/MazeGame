@@ -12,3 +12,4 @@ Implementation of a complex maze game system that includes:
 •	In addition, any maze solution that has already been executed is saved in a stacking table to save time.
 
 •	The code combines the use of templates and the Design pattern and in particular the observer pattern and command pattern.
+
